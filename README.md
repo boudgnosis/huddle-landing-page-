@@ -36,8 +36,8 @@ Los usuarios deben ser capaces de:
 
 ### Enlaces
 
-- URL de la solución (Frontend Mentor): [Solución en Frontend Mentor](https://www.frontendmentor.io/solutions/accessibility-flexbox-responsivedesign-loadinghtml-WRjKLS4kEJ)
-- URL del sitio en vivo: [En vivo](https://boudgnosis.github.io/Clipboard-landing-page/)
+- URL de la solución (Frontend Mentor): [Solución en Frontend Mentor](https://www.frontendmentor.io/solutions/accessibility-flexbox-responsivedesign-transition-hover-O0Ew3pw6M2)
+- URL del sitio en vivo: [En vivo](https://boudgnosis.github.io/huddle-landing-page-/)
 
 ## Mi Proceso
 
